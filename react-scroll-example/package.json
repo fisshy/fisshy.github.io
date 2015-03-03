@@ -1,0 +1,34 @@
+{
+  "name": "react-scroll-example",
+  "version": "0.1.0",
+  "description": "react scroll examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fisshy/fisshy.github.io.git"
+  },
+  "keywords": [
+    "react",
+    "scroll",
+    "fisshy"
+  ],
+  "author": "Joachim Karlsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fisshy/fisshy.github.io/issues"
+  },
+  "homepage": "https://github.com/fisshy/fisshy.github.io",
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "react": "^0.12.2",
+    "react-router": "^0.12.4",
+    "react-scroll": "^0.7.0",
+    "reactify": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0"
+  }
+}
